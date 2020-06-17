@@ -24,6 +24,4 @@ int main()
         }
         std::this_thread::sleep_for(std::chrono::microseconds(100));
     }
-
-    return 0;
 }
