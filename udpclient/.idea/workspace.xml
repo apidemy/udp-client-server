@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="udpclient" targetName="udpclient" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="304811fd-8525-448d-882b-58ab5d9210db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1dRuLYcYq74RSZJsXym8Z1z9Qyu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../udp-client-server" />
+  </component>
+  <component name="RunManager">
+    <configuration name="udpclient" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="udpclient" TARGET_NAME="udpclient" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="udpclient" RUN_TARGET_NAME="udpclient">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="304811fd-8525-448d-882b-58ab5d9210db" name="Default Changelist" comment="" />
+      <created>1592400171388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592400171388</updated>
+      <workItem from="1592400172530" duration="7541000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="527" height="466" key="DebuggerActiveHint" timestamp="1592402637524">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="527" height="466" key="DebuggerActiveHint/72.27.1848.1053@72.27.1848.1053" timestamp="1592402637524" />
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1592405882271">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1592405882271" />
+    <state width="1802" height="267" key="GridCell.Tab.0.bottom" timestamp="1592407868409">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="267" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1592407868409" />
+    <state width="1802" height="267" key="GridCell.Tab.0.center" timestamp="1592407868408">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="267" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1592407868408" />
+    <state width="1802" height="267" key="GridCell.Tab.0.left" timestamp="1592407868407">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="267" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1592407868407" />
+    <state width="1802" height="267" key="GridCell.Tab.0.right" timestamp="1592407868409">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="267" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1592407868409" />
+    <state width="1802" height="330" key="GridCell.Tab.1.bottom" timestamp="1592403116689">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="330" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1592403116689" />
+    <state width="1802" height="330" key="GridCell.Tab.1.center" timestamp="1592403116689">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="330" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1592403116689" />
+    <state width="1802" height="330" key="GridCell.Tab.1.left" timestamp="1592403116689">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="330" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1592403116689" />
+    <state width="1802" height="330" key="GridCell.Tab.1.right" timestamp="1592403116689">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="330" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1592403116689" />
+    <state x="563" y="257" width="916" height="592" key="find.popup" timestamp="1592407716900">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="563" y="257" width="916" height="592" key="find.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1592407716900" />
+    <state x="740" y="197" width="501" height="720" key="refactoring.ChangeSignatureDialog" timestamp="1592404589969">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="740" y="197" width="501" height="720" key="refactoring.ChangeSignatureDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1592404589969" />
+    <state x="660" y="252" width="672" height="677" key="run.anything.popup" timestamp="1592401075434">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="660" y="252" width="672" height="677" key="run.anything.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1592401075434" />
+  </component>
+</project>
