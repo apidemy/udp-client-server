@@ -1,4 +1,4 @@
-# Better Repository
+# Better Examples
   Asio comes in two variants: (non-Boost) Asio and Boost.Asio.
   There are better examples in Asio source repositoris to use UDP (TCP or etc.) sockets.
  ## Where do I get Asio release package?
